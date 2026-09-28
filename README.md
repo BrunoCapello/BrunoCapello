@@ -2,9 +2,9 @@
 
 
 
-<h1 align="left>Hi there 👋</h1>
+<h1 align="left">Hi there 👋</h1>
 
-<p align="left>I'm Bruno, a Systems Analysis student from Argentina 🇦🇷</p>
+<p align="left">I'm Bruno, a Systems Analysis student from Argentina 🇦🇷</p>
 
 ---
 
