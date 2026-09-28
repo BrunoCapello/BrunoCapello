@@ -1,4 +1,4 @@
-![Bruno Capello]
+![Bruno Capello](https://github.com/KlousX/BrunoCapello/blob/main/banner.png)
 
 <h1 align="left>Hi there 👋</h1>
 
