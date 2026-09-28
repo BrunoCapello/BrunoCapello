@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/KlousX/KlousX/main/banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋</h1>
+<h1>Hi there 👋</h1>
 
-<p align="center">
+<p>
 I'm Bruno, a Systems Analysis student from Argentina 🇦🇷
 </p>
 
