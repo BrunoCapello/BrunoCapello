@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KlousX/KlousX/main/banner.png" width="100%" />
-</p>
+![Bruno Capello]
 
-<h1>Hi there 👋</h1>
+<h1 align="left>Hi there 👋</h1>
 
-<p>
-I'm Bruno, a Systems Analysis student from Argentina 🇦🇷
-</p>
+<p align="left>I'm Bruno, a Systems Analysis student from Argentina 🇦🇷</p>
 
 ---
 
-## 🧑‍💻 About Me
+<h3 align="left">👩‍💻 About Me</h3>
 
 I enjoy building applications and solving problems through code.  
 Currently working with **C# and Java**, and developing web projects using **HTML, CSS and JavaScript**.
@@ -20,7 +16,7 @@ I’m also comfortable working in teams, sharing ideas and learning from others,
 
 ---
 
-## ⚙️ Languages and Tools
+<h3 align="left">🛠 Language and tools</h3>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
